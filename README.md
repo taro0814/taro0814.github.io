@@ -1,6 +1,8 @@
 # taro0814.github.io
 
-## test
+## Docker for Windows　のインストール
+- Dockerがなかなか難しい。。。
+- Windows10がWSLという仕組みでBash動くようになってたりして、Docker for Windowsが最適なのか悩む
 
 ## test
 
