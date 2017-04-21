@@ -5,7 +5,7 @@
 - [Doker](https://taro0814.github.io/Docker)
   - Dockerとの格闘
 
-- [pyLeran](https://taro0814.github.io/pyLearn)
+- [pyLearn](https://taro0814.github.io/pyLearn)
   - Pythonによるスクレイピング&機械学習
 
 ## test
