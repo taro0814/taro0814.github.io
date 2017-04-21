@@ -1,8 +1,12 @@
 # taro0814.github.io
 
-## Docker for Windows　のインストール
-- Dockerがなかなか難しい。。。
-- Windows10がWSLという仕組みでBash動くようになってたりして、Docker for Windowsが最適なのか悩む
+## 学習の軌跡
+
+- [Doker](https://taro0814.github.io/Docker)
+  - Dockerとの格闘
+
+- [pyLeran](https://taro0814.github.io/pyLearn)
+  - Pythonによるスクレイピング&機械学習
 
 ## test
 
